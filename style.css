@@ -1,0 +1,38 @@
+.container {
+    color: #B22222;
+    text-align: center;
+    padding-top: 100px;
+}
+
+#button {
+    background-color: #B22222;
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+}
+
+#header {
+    font-weight: 4em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.list-group-item {
+    border: none;
+    display: table;
+    justify-content: center;
+
+   
+}
+
+ul {
+    width: 35%;
+    margin: auto;
+}
+
+#date {
+    color: black;
+}
